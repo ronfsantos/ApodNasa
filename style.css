@@ -1,0 +1,14 @@
+    .header-left img {
+        width: 90px;
+        height: 90px;
+    }
+    
+    header {
+        display: flex;
+        justify-content: center;
+        height: 100px;
+    }
+    
+    body {
+        background-image: url(./espacos.jpeg);
+    }
